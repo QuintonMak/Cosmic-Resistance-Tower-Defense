@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TowerThree
+comment0.text=\r\n\ Turret\ three\ is\ a\ piercing\ turret\ dealing\ more\ damage\ and\ piercing\ enemy\ armor.\r\n\ \r\n\ \r\n\ @author\ (Quinton\ Mak)\ \r\n\ @version\ (June\ 2021)\r\n
+comment1.params=
+comment1.target=TowerThree()
+comment1.text=\r\n\ Constructor\ for\ the\ piercing\ turret.\ The\ special\ skill\ when\ maxed\ is\ a\ chance\ to\r\n\ deal\ double\ damage,\ however\ decreasing\ shotspeed.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ shoot()
+comment3.text=\r\n\ Unique\ shoot\ method.\ Shoots\ piercing\ ammunition\ instead\ \ of\ regular\ ammunition.\ \r\n\ Plus\ includes\ chance\ if\ tower\ is\ maxed\ out.\r\n
+comment4.params=
+comment4.target=void\ upgrade()
+comment4.text=\r\n\ Upgrades\ tower.\r\n\ Update's\ the\ tower's\ damage\ increase,\ since\ each\ tower\ has\ a\ unique\ damage\ increase.\r\n\ Upgrades\ to\ tower's\ unique\ max\ level\ ability\r\n
+numComments=5

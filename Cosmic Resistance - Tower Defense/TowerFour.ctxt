@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=TowerFour
+comment0.text=\r\n\ Turret\ four\ is\ an\ electric\ turret.\ This\ turret\ shoots\ energy\ balls\ which\ slow\ \r\n\ down\ enemies.\r\n\ \r\n\ @author\ (Levent\ Eren)\ \r\n\ @version\ 17\ June\ 2021\r\n
+comment1.params=
+comment1.target=TowerFour()
+comment1.text=\r\n\ Constructor\ for\ the\ area\ damage\ turret.\ The\ special\ skill\ when\ maxed\ is\ an\ increased\r\n\ slow\ duration\ for\ enemies\ when\ hit.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ shoot()
+comment3.text=\r\n\ Unique\ shoot\ method.\ Shoots\ energy\ balls\ instead\ \ of\ regular\ ammunition\r\n
+comment4.params=
+comment4.target=void\ upgrade()
+comment4.text=\r\n\ Upgrades\ tower.\r\n\ Update's\ the\ tower's\ damage\ increase,\ since\ each\ tower\ has\ a\ unique\ damage\ increase.\r\n\ Upgrades\ to\ tower's\ unique\ max\ level\ ability\r\n
+numComments=5

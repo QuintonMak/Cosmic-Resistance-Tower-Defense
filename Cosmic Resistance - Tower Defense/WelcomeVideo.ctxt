@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WelcomeVideo
+comment0.text=\r\n\ Video\ that\ plays\ before\ the\ game\ starts\r\n\ \r\n\ @author\ (Fatima\ Yahya,\ Vivian\ Luo)\ \r\n\ @version\ June\ 2021\r\n
+comment1.params=
+comment1.target=WelcomeVideo()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ myWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ startVideoMusic()
+comment3.text=\r\n\ \ called\ automatically\ by\ Greenfoot.\ \r\n
+numComments=4

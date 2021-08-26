@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FlyingEnemy
+comment0.text=\r\n\ Flying\ enemy\ is\ an\ enemy\ that\ flies\ over\ the\ path.\ This\ enemy\ will\ catch\ you\ by\ surprise.\r\n\ It\ does\ not\ follow\ the\ original\ path\ so\ change\ your\ towers\ accordingly.\r\n\ Additionally,\ do\ not\ underestimate\ its\ health\ either,\ it\ is\ a\ worthy\ opponant.\r\n\ \r\n\ @author\ (Quinton\ Mak)\ \r\n\ @version\ 17\ June\ 2021\r\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=multiplier
+comment2.target=FlyingEnemy(int)
+comment2.text=\r\n\ Constructor\ for\ flying\ enemy\r\n
+comment3.params=w
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ pathFinding()
+comment4.text=\r\n\ Unique\ pathfinding.\ This\ enemy\ flies\ over\ the\ path\ in\ a\ straight\ line\ to\ the\ base.\r\n
+comment5.params=damage
+comment5.target=void\ hit(int)
+comment5.text=\r\n\ If\ dead,\ add\ more\ money\ than\ the\ default\ enemy.\r\n
+numComments=6

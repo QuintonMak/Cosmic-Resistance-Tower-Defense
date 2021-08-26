@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BossEnemy
+comment0.text=\r\n\ Boss\ enemy\ is\ the\ strongest\ and\ beefiest\ enemy.\ It\ arrived\ every\ once\ in\ a\ while.\r\n\ However,\ when\ it\ does,\ legend\ says\ it\ could\ take\ on\ 50\ turrets.\ \r\n\ \r\n\ @author\ (Quinton\ Mak)\ \r\n\ @version\ 17\ June\ 2021\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ enemy\ acts\ like\ a\ noraml\ enemy,\ however\ it\ also\ heals\ itself.\r\n
+comment2.params=
+comment2.target=BossEnemy()
+comment2.text=\r\n\ Constructor\ for\ boss\ enemy\r\n
+comment3.params=multiplier
+comment3.target=BossEnemy(int)
+comment3.text=\r\n\ Constructor\ for\ boss\ enemy\r\n\ \r\n\ @param\ multiplier\ the\ amount\ which\ the\ basee\ hp\ is\ multiplied\ by\r\n
+comment4.params=damage
+comment4.target=void\ hit(int)
+comment4.text=\r\n\ This\ enemy\ can\ only\ get\ hit\ when\ not\ healing\r\n\ If\ dead,\ add\ a\ lot\ more\ money\ than\ the\ default\ enemy.\r\n
+numComments=5
