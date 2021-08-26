@@ -1,3 +1,3 @@
 # Cosmic-Resistance---Tower-Defense
 
-[API](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-on-github/adding-a-file-to-a-repository)
+[API](https://github.com/QuintonMak/Cosmic-Resistance---Tower-Defense/blob/main/Cosmic%20Resistance%20-%20Tower%20Defense/doc/allclasses-index.html)
