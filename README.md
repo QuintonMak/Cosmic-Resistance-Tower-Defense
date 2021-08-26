@@ -1,4 +1,4 @@
-# Cosmic Resistance-Tower Defense
+# Cosmic Resistance - Tower Defense
 The base is being invaded and you are the last line of defense! Place towers and hold off the enemy for as long as possible!
 This game was made in Greenfoot, a Java IDE.
 The API for this project (as an HTML file) can be found [here](https://github.com/QuintonMak/Cosmic-Resistance---Tower-Defense/blob/main/Cosmic%20Resistance%20-%20Tower%20Defense/doc/allclasses-index.html).
