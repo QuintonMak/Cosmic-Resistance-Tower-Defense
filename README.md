@@ -5,8 +5,8 @@ The API for this project (as an HTML file) can be found [here](https://github.co
 
 # How to Run
   - Download Greenfoot [here](https://www.greenfoot.org/door).
-  - Download the folder "MakQuintonTheQuestForXommuria" included in this repository.
-  - Open Greenfoot, go to Scenario --> Open --> click on the folder "MakQuintonTheQuestForXommuria".
+  - Download the folder "Cosmic Resistance - Tower Defense" included in this repository.
+  - Open Greenfoot, go to Scenario --> Open --> click on the folder "Cosmic Resistance - Tower Defense".
   - Click the "Run" button to begin.
 
   Alternatively, play the game [here](https://www.greenfoot.org/scenarios/28209).
