@@ -1,6 +1,6 @@
 # Cosmic-Resistance---Tower-Defense
 The base is being invaded and you are the last line of defense! Place towers and hold off the enemy for as long as possible!
-The API for this project (as an HTML file) can be found [here](https://github.com/QuintonMak/Cosmic-Resistance---Tower-Defense/blob/main/Cosmic%20Resistance%20-%20Tower%20Defense/doc/allclasses-index.html)
+The API for this project (as an HTML file) can be found [here](https://github.com/QuintonMak/Cosmic-Resistance---Tower-Defense/blob/main/Cosmic%20Resistance%20-%20Tower%20Defense/doc/allclasses-index.html).
 
 # Instructions:
 - CLICK or DRAG tower buttons in order to place towers onto the map.
