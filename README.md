@@ -3,6 +3,14 @@ The base is being invaded and you are the last line of defense! Place towers and
 This game was made in Greenfoot, a Java IDE.
 The API for this project (as an HTML file) can be found [here](https://github.com/QuintonMak/Cosmic-Resistance---Tower-Defense/blob/main/Cosmic%20Resistance%20-%20Tower%20Defense/doc/allclasses-index.html).
 
+# How to Run
+  - Download Greenfoot [here](https://www.greenfoot.org/door).
+  - Download the folder "MakQuintonTheQuestForXommuria" included in this repository.
+  - Open Greenfoot, go to Scenario --> Open --> click on the folder "MakQuintonTheQuestForXommuria".
+  - Click the "Run" button to begin.
+
+  Alternatively, play the game [here](https://www.greenfoot.org/scenarios/28209).
+  
 # Instructions:
 - CLICK or DRAG tower buttons in order to place towers onto the map.
 - SELECT an active tower and press the UPGRADE button to upgrade that tower.
