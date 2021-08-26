@@ -12,5 +12,3 @@ The API for this project (as an HTML file) can be found [here](https://github.co
 - Collaborators: Fatima Yahya, Levent Eren, Vivian Luo, Jason Wang
 - Sounds Credit: https://mixkit.co/free-sound-effects/game/
 - Image Credit: Daniel Stephens (http://www.unknown-horizons.org/), Jason Wang
-
-[API](https://github.com/QuintonMak/Cosmic-Resistance---Tower-Defense/blob/main/Cosmic%20Resistance%20-%20Tower%20Defense/doc/allclasses-index.html)
