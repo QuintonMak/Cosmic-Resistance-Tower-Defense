@@ -1,3 +1,3 @@
 # Cosmic-Resistance---Tower-Defense
 
-[API](file:///C:/Users/qcloc/OneDrive%20-%20University%20of%20Waterloo/Personal/Documents/GitHub%20Repos/Cosmic-Resistance---Tower-Defense/Cosmic%20Resistance%20-%20Tower%20Defense/doc/allclasses-index.html)
+[API](https://docs.github.com/en/github/managing-files-in-a-repository/managing-files-on-github/adding-a-file-to-a-repository)
